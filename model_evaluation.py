@@ -22,7 +22,6 @@ ADDITIONAL_TOKENS = ['<OTHER>', '<START>', '<END>', '<PAD>']
 ADDED_TOKENS_PER_SEQ = 2
 MODEL_PATH = './proteinbert_models/proteinBERT_full/'
 DATA_PATH = './test_sets/'
-DATASET_PATH = 'bass_other_nlreff.csv'
 SEQ_LENGTH = 42
 SEQ_CUTOFF = 40
 
